@@ -310,8 +310,8 @@
       },
     {
       "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
-      "image": "https://m.media-amazon.com/images/I/61o4qoHjI9L._SX569_.jpg",
-      "name": "AMERICAN CREW Polo",
+      "image": "https://m.media-amazon.com/images/I/910chlIWCML._SX569_.jpg",
+      "name": "Nike Men T-Shirt",
       "stars": 4.4,
       "prevPrice": "1,995",
       "newPrice": "1299",
