@@ -50,38 +50,6 @@
     "category": "mens",
     "company": "Others",
     },
-
-    
-    {
-    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
-    "image": "https://m.media-amazon.com/images/I/61646NJsV1L._SY741_.jpg",
-    "name": "AMEVI Women's",
-    "stars": 3.4,
-    "prevPrice": "899",
-    "newPrice": "499",
-    "category": "womens",
-    "company": "Others",
-    },
-    {
-    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
-    "image": "https://m.media-amazon.com/images/I/61rT+2kobdL._SY741_.jpg",
-    "name": "RodZen Oversized",
-    "stars": 4,
-    "prevPrice": "599",
-    "newPrice": "499",
-    "category": "womens",
-    "company": "Others",
-    },
-    {
-    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
-    "image": "https://m.media-amazon.com/images/I/61J5fl+wPoL._SY741_.jpg",
-    "name": "BLANCD Women's Pure Cotton",
-    "stars": 3.8,
-    "prevPrice": "899",
-    "newPrice": "799",
-    "category": "womens",
-    "company": "Others",
-    },
     {
     "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
     "image": "https://m.media-amazon.com/images/I/61Z+1poDHWL._SX679_.jpg",
@@ -214,6 +182,39 @@
       "category": "mens",
       "company": "Puma",
       },
+      ,
+
+    
+    {
+    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
+    "image": "https://m.media-amazon.com/images/I/61646NJsV1L._SY741_.jpg",
+    "name": "AMEVI Women's",
+    "stars": 3.4,
+    "prevPrice": "899",
+    "newPrice": "499",
+    "category": "womens",
+    "company": "Others",
+    },
+    {
+    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
+    "image": "https://m.media-amazon.com/images/I/61rT+2kobdL._SY741_.jpg",
+    "name": "RodZen Oversized",
+    "stars": 4,
+    "prevPrice": "599",
+    "newPrice": "499",
+    "category": "womens",
+    "company": "Others",
+    },
+    {
+    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
+    "image": "https://m.media-amazon.com/images/I/61J5fl+wPoL._SY741_.jpg",
+    "name": "BLANCD Women's Pure Cotton",
+    "stars": 3.8,
+    "prevPrice": "899",
+    "newPrice": "799",
+    "category": "womens",
+    "company": "Others",
+    }
     {
       "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
       "image": "https://m.media-amazon.com/images/I/51xWUCR2PBL._SY741_.jpg",
