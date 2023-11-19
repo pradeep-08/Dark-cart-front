@@ -74,7 +74,7 @@
     {
     "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
     "image": "https://m.media-amazon.com/images/I/41x0+UA6y6L._SX569_.jpg",
-    "name": "Nike ' mens' Relaxed Fit T-Shirt (DV2314-403_Signal Blue",
+    "name": "Nike ' mens' Fit T-Shirt",
     "stars": 3,
     "prevPrice": "1,595",
     "newPrice": "999",
