@@ -214,7 +214,7 @@
     "newPrice": "799",
     "category": "womens",
     "company": "Others",
-    }
+    },
     {
       "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
       "image": "https://m.media-amazon.com/images/I/51xWUCR2PBL._SY741_.jpg",
